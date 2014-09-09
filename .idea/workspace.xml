@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d2b30d9-d934-40ac-a41a-e0b0ccfbf139" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/include.php" afterPath="$PROJECT_DIR$/Includes/include.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="MVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+            <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.047819972" vertical-offset="0" max-vertical-offset="711">
               <folding />
             </state>
           </provider>
@@ -53,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="include.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="include.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Includes/include.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="91" selection-end="91" vertical-scroll-proportion="0.11954993" vertical-offset="0" max-vertical-offset="711">
+            <state line="3" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
@@ -229,16 +228,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Controller/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+        <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/View.php">
+    <entry file="file://$PROJECT_DIR$/Includes/include.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
+        <state line="3" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
           <folding />
         </state>
       </provider>
@@ -250,16 +249,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controller/Controller.php">
+    <entry file="file://$PROJECT_DIR$/View/View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Includes/include.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="91" selection-end="91" vertical-scroll-proportion="0.11954993" vertical-offset="0" max-vertical-offset="711">
+        <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.047819972" vertical-offset="0" max-vertical-offset="711">
           <folding />
         </state>
       </provider>
