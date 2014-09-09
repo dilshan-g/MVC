@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d2b30d9-d934-40ac-a41a-e0b0ccfbf139" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/Controller.php" afterPath="$PROJECT_DIR$/Controller/Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model/Model.php" afterPath="$PROJECT_DIR$/Model/Model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/View/View.php" afterPath="$PROJECT_DIR$/View/View.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Includes/include.php" afterPath="$PROJECT_DIR$/Includes/include.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
@@ -36,7 +29,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="153">
+            <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
               <folding />
             </state>
           </provider>
@@ -60,19 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="include.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="include.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Includes/include.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="187">
+            <state line="5" column="20" selection-start="91" selection-end="91" vertical-scroll-proportion="0.11954993" vertical-offset="0" max-vertical-offset="711">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Controller.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controller/Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="0.1673699" vertical-offset="0" max-vertical-offset="711">
+            <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
@@ -92,10 +85,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/View/View.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Model/Model.php" />
-        <option value="$PROJECT_DIR$/Includes/include.php" />
         <option value="$PROJECT_DIR$/Controller/Controller.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Includes/include.php" />
       </list>
     </option>
   </component>
@@ -236,14 +229,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/View.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
+        <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/View/View.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
           <folding />
@@ -257,16 +250,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Includes/include.php">
+    <entry file="file://$PROJECT_DIR$/Controller/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="187">
+        <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controller/Controller.php">
+    <entry file="file://$PROJECT_DIR$/Includes/include.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="67" selection-end="67" vertical-scroll-proportion="0.1673699" vertical-offset="0" max-vertical-offset="711">
+        <state line="5" column="20" selection-start="91" selection-end="91" vertical-scroll-proportion="0.11954993" vertical-offset="0" max-vertical-offset="711">
           <folding />
         </state>
       </provider>
